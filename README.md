@@ -12,6 +12,9 @@ This package requires:
 
 Numpy
 Matplotlib
+
+Features should be developed on branches.  To create a new branch, use:
+`git checkout -b new_branch_name`
 ### Copyright
 
 Copyright (c) 2020, Steve Raaen
