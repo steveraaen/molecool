@@ -8,6 +8,10 @@ Python package for analysing and visualizing pdb and xyz files
 
 This repository is currently under development.  To development install, clone the repo and run `pip install -e .`
 
+This package requires:
+
+Numpy
+Matplotlib
 ### Copyright
 
 Copyright (c) 2020, Steve Raaen
